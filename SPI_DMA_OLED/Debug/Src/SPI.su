@@ -1,0 +1,7 @@
+../Src/SPI.c:10:6:SPI1_GPIO_INIT	4	static
+../Src/SPI.c:55:6:SPI_Master_INIT	4	static
+../Src/SPI.c:82:6:SPI_DMA_INIT	4	static
+../Src/SPI.c:107:6:DMA_SEND_DATA	16	static
+../Src/SPI.c:124:6:SPI_Enable	4	static
+../Src/SPI.c:130:6:SPI_Disable	4	static
+../Src/SPI.c:135:6:Send_Data	16	static
